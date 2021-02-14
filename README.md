@@ -4,6 +4,9 @@ dacon_vision_pytorch
 dacon_vision_pytorch
 ├─torch_baseline.py
 ├─save_per_epoch.py
+├─save_per_epoch_efficientnet.py
+├─models  # 일반모델 저장폴더
+├─efficientnets  # efficientnet 저장폴더
 ├─data
 │  ├─train
 │  |  ├─05000.png
